@@ -1,5 +1,6 @@
 # hello-world
-My first repository at GitHub - For educational purpose
+
+This repository is used to TEST the features of GitHub - For educational purposes
 
 My first comment at branch: readme-edits
 
